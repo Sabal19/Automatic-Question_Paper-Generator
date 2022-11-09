@@ -8,6 +8,8 @@ This is the minor project which we have done during our 3rd year of our bachelor
 
 - First install the django
 
+-I have deleted some files to make this repo look clean so first create django project  with code ((env) $ django-admin startproject <project-name>)
+
 - Run the Django server and install the required packages and libraries as asked to install.
 
 - The documentation is given in this repository for more knowledge of our project.
